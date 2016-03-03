@@ -15,6 +15,8 @@ namespace H264CameraUtil
         private int m_localPort;
         public CameraPortForwarding(CameraParam cameraParams,int localPort) : base(cameraParams) 
         {
+			int  i= 0;
+			i++;
             m_localPort = localPort;
         }
         public override void StartService()
