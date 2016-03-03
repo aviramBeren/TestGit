@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="H264CameraUtil.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CAMERA_PARAMS_FILE_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\log\cameraParams.xml</Value>
+    </Setting>
+    <Setting Name="CAMERA_RECORDER_OUTPUT_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\log</Value>
+    </Setting>
+    <Setting Name="CAMERA_RECORDER_OUTPUT_PREFIX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ED_</Value>
+    </Setting>
+    <Setting Name="CAMERA_RECORDER_OUTPUT_EXT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mp4</Value>
+    </Setting>
+    <Setting Name="CAMERA_STREAMER_PORT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8554</Value>
+    </Setting>
+    <Setting Name="CAMERA_STREAMER_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">stream</Value>
+    </Setting>
+    <Setting Name="KEY_LISTENER_DELAY" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="RECORDER_OVERLAP_DURATION" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="RUN_RECORDER_SERVICE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RUN_STREAMER_SERVICE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RUN_VIEWER_SERVICE" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

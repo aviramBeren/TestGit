@@ -1,0 +1,11 @@
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\H264CameraUtil.exe.config
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\H264CameraUtil.exe
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\H264CameraUtil.pdb
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\log4net.dll
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\bin\Debug\log4net.xml
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\obj\Debug\H264CameraUtil.exe
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\obj\Debug\H264CameraUtil.pdb
+C:\Users\Aviram\documents\visual studio 2013\Projects\H264CameraUtil\H264CameraUtil\obj\Debug\H264CameraUtil.csprojResolveAssemblyReference.cache
